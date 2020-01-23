@@ -1,0 +1,11 @@
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice.deps.json
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice.runtimeconfig.json
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice.runtimeconfig.dev.json
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice.dll
+/Users/nfarrell/Desktop/Code/classPractice/bin/Debug/netcoreapp3.0/classPractice.pdb
+/Users/nfarrell/Desktop/Code/classPractice/obj/Debug/netcoreapp3.0/classPractice.csprojAssemblyReference.cache
+/Users/nfarrell/Desktop/Code/classPractice/obj/Debug/netcoreapp3.0/classPractice.AssemblyInfoInputs.cache
+/Users/nfarrell/Desktop/Code/classPractice/obj/Debug/netcoreapp3.0/classPractice.AssemblyInfo.cs
+/Users/nfarrell/Desktop/Code/classPractice/obj/Debug/netcoreapp3.0/classPractice.dll
+/Users/nfarrell/Desktop/Code/classPractice/obj/Debug/netcoreapp3.0/classPractice.pdb
