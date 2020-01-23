@@ -19,6 +19,7 @@ namespace classPractice
 
             List<string> band1Members = new List<string>();
             band1Members.Add("Jimmy Smith");
+            band1Members.Add("Bob Welly");
 
             Band band1 = new Band(band1Members, "Xanzatras", 1999, "Doom Metal");
             
@@ -53,8 +54,13 @@ namespace classPractice
         private string _name;
         private int _yearStarted;
         private string _genre;
+        private string _memberString;
         public string getMembers() {
-            return _members[0];
+            foreach (string member in _members)
+            {
+                _memberString += member + ", ";
+            }
+            return _memberString;
         }
         
 
