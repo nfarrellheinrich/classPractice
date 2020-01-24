@@ -10,9 +10,15 @@ namespace classPractice {
             band1Members.Add (new Musician ("Robert Plant", "Vocals"));
             band1Members.Add (new Musician ("John Bonham", "Drums"));
             band1Members.Add (new Musician ("John Paul Jones", "Bass/Keyboard"));
-            Band band1 = new Band (band1Members, "Led Zeppelin", 1969, "Classic Rock");
-
+            Band band1 = new Band (band1Members, "Led Zeppelin", 1969, "Blues Rock");
             Console.WriteLine(band1.getAllInfo());
+
+            List<Musician> band2Members = new List<Musician> ();
+            band2Members.Add(new Musician ("Ozzy Ozzbourne", "Vocals"));
+            band2Members.Add(new Musician ("Tony Iommi", "Guitar"));
+            
+            Band band2 = new Band (band2Members, "Black Sabbath", 1967, "Metal");
+            Console.WriteLine(band2.getAllInfo());
 
 
         }
